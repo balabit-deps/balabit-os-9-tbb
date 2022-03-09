@@ -1,0 +1,10 @@
+Document: libtbb2-doc
+Title: Threading Building Blocks Library Documentation
+Author: Intel Corporation
+Abstract: Documentation for developing against libtbb
+Section: Programming
+
+Format: HTML
+Index: /usr/share/doc/libtbb2-dev/html/index.html
+Files: /usr/share/doc/libtbb2-dev/html/*.html
+
